@@ -1,4 +1,4 @@
-***Task 1***:June – Python Voice Assistant
+***Task 1***: June – Python Voice Assistant
 
 June is a Python-based voice assistant that can greet you, listen to your commands, and respond using speech. It can perform tasks like searching Wikipedia, opening websites such as Google and YouTube, and telling the current time. The assistant uses SpeechRecognition to understand voice commands and pyttsx3 for text-to-speech responses.
 
@@ -8,7 +8,7 @@ To use June, clone the repository, install the required Python packages, and run
 
 =======================================================================================================================================================================================
 
-***Task 2***:BMI Calculator
+***Task 2***: BMI Calculator
 
 A simple command-line BMI (Body Mass Index) calculator written in Python. This program allows users to input their weight in kilograms and height in feet to calculate their BMI and determine their health category.
 The calculator uses the standard BMI formula:
