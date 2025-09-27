@@ -6,7 +6,7 @@ How it Works:
 When you run June, it first greets you based on the current time. It then continuously listens to your voice commands through the microphone. Commands are converted to text using the SpeechRecognition library. Based on your command, June can fetch information from Wikipedia, open web pages, or tell the current time. You can stop the assistant at any time by saying “exit,” “quit,” or “stop.”
 To use June, clone the repository, install the required Python packages, and run the program. Speak commands like “Open Google,” “Search Wikipedia for Albert Einstein,” “What is the time?” or “Exit” to interact with the assistant.
 
-=======================================================================================================================================================================================
+============================================================================================
 
 ***Task 2***: BMI Calculator
 
@@ -27,7 +27,7 @@ Features:
     -High BMI
 5. Handles invalid or non-numeric inputs gracefully.
 
-=======================================================================================================================================================================================
+============================================================================================
 
 
 
