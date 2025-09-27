@@ -8,7 +8,7 @@ When you run June, it first greets you based on the current time. It then contin
 
 To use June, clone the repository, install the required Python packages, and run the program. Speak commands like “Open Google,” “Search Wikipedia for Albert Einstein,” “What is the time?” or “Exit” to interact with the assistant.
 
-============================================================================================
+===============================================================================================================================
 
 ***Task 2***: BMI Calculator
 
@@ -30,7 +30,7 @@ Features:
     -High BMI
 5. Handles invalid or non-numeric inputs gracefully.
 
-============================================================================================
+===============================================================================================================================
 
 
 
