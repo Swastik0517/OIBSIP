@@ -35,6 +35,7 @@ Features:
 ***Task 3***: Password Generator
 
 A simple command-line password generator written in Python. This program allows users to create secure, random passwords based on their preferred length and character types, including letters, numbers, and symbols. 
+
 The generator uses Python's random module to randomly select characters from the allowed character sets specified by the user.
 
 Features:
