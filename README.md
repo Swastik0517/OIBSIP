@@ -60,8 +60,8 @@ When you run Weatheria, it first displays a welcome message. It then prompts the
 To use Weatheria:
 
 1. Clone the repository.
-2. Create a '.env' file in the project root and store your API key as:
-   api_key = (Your API Key)
+2. Create a `.env` file in the project root and store your API key as:
+     `api_key = (Your API Key)`
 3. Install the required Python packages: `requests` and `python-dotenv`.
 4. Run the program and enter a city name or leave blank to use your current location. Type “exit” to quit.
 
