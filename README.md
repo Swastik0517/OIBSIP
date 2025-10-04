@@ -67,6 +67,26 @@ To use Weatheria:
 
 ===========================================================================================================================================
 
+***Task 5***: Python Chat Application
 
+This is a simple client-server chat application built in Python using socket and threading. It allows real-time communication between a server and multiple clients through the command line.
 
+How it Works:
 
+1. The server runs on a host and port, listening for client connections.
+2. Once a client connects, they can send and receive messages.
+3. The server handles multiple clients using threads.
+4. Clients type messages in the format:
+    `You: Hello
+    Server: Hi there!`
+
+5. The connection can be closed anytime by typing “quit” in the client.
+
+How to Use:
+1. Run the server:
+    `python server.py`
+2. Run the client (in another terminal):
+    `python client.py`
+3. Start chatting by typing your messages in the client window.
+
+===========================================================================================================================================
